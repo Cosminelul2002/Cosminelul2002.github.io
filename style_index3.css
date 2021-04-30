@@ -1,0 +1,31 @@
+img {
+	background-image: 
+}
+
+body {
+	background-image: url(background3.jpeg);
+	background-size: cover;
+}
+
+.nav-link {
+	color: #738CA6;
+}
+
+.btn {
+	font-weight: 700;
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.btn-outline-primary:hover {
+	padding: 15px;
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  right: 8%;
+  transform: translateY(-20%);
+  transform: translateY(-50%);
+}
+
